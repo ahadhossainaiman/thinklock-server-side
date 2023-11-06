@@ -1,3 +1,3 @@
 ### ThinkLock (A LMS Website)
 
-###### [Client Code](https://github.com/khalidccnu/thinklock-client-side)
+###### [Client Code](https://github.com/ahadhossainaiman/thinklock-client-side)
